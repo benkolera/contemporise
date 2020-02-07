@@ -1,0 +1,3 @@
+[submodule "dep/rhyolite"]
+	path = dep/rhyolite
+	url = https://github.com/obsidiansystems/rhyolite.git
